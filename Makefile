@@ -1,4 +1,4 @@
-version=0.0.498
+version=0.0.506
 
 build:
 	docker buildx build --build-arg="VERSION=$(version)" --platform=linux/amd64 -t jakubknejzlik/sst-ion:$(version) .
