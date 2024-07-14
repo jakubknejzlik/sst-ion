@@ -1,5 +1,5 @@
 # https://github.com/alpinelinux/docker-alpine/issues/396
-FROM node:lts-alpine3.19
+FROM node:21-alpine3.19
 
 ARG VERSION=0.0.0
 
