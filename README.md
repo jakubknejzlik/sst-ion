@@ -1,7 +1,7 @@
 # sst-ion
 
-Docker image for SST Ion with preinstalled tools:
+Docker image for runnin SST Ion on various CI/CD with preinstalled tools:
 
 - aws-cli
-- Ion cli
-- nodejs
+- nodejs & npm
+- bun
